@@ -19,10 +19,10 @@ GitHub Pages的IP地址为:
 
 > 注意User Pages和Project Pages是独立的：即使bob没有名为`bob.github.io`的repo，我们仍然可以通过`https://bob.github.io/<project>`来访问Project Page
 
-在repo的setting中可以选择Source
-    - master branch: README.md或者index.html将被用于显示网页
-    - master /docs: /docs/README.md或者index.html将被用于显示网页
-    - gh-pages: index.html将被用于显示网页
+在repo的setting中可以选择Source：
+- master branch: README.md或者index.html将被用于显示网页
+- master /docs: /docs/README.md或者index.html将被用于显示网页
+- gh-pages: index.html将被用于显示网页
 
 ## Custom domain
 
