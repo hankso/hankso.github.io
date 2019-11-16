@@ -2,7 +2,7 @@
 layout: post
 title:  "Setup GitHub Pages"
 date:   2019-11-10 02:21:33 +0800
-categories: github record
+categories: github blog
 ---
 # GitHub Pages
 
